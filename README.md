@@ -8,4 +8,4 @@ Boilerplate to start up with Rails, MySQL, React with Webpack
 4. Run `rails db:create` to create the database<br/>
 5. Run `rails db:schema:load` or `rails db:migrate`load the schema into database<br/>
 6. Run `rails db:seed` to seed your database<br/>
-7. Run `rails s` and run your server.
+7. Run `rails s` and `bin/webpack-dev-server` and run your server.
