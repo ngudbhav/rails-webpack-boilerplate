@@ -62,6 +62,7 @@
     <orderEntry type="library" scope="PROVIDED" name="mini_mime (v1.0.2, rbenv: 2.3.4) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="mini_portile2 (v2.4.0, rbenv: 2.3.4) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="minitest (v5.14.3, rbenv: 2.3.4) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="multi_json (v1.14.1, rbenv: 2.3.4) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="mysql2 (v0.4.6, rbenv: 2.3.4) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="nio4r (v2.5.2, rbenv: 2.3.4) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="nokogiri (v1.10.10, rbenv: 2.3.4) [gem]" level="application" />
@@ -95,6 +96,7 @@
     <orderEntry type="library" scope="PROVIDED" name="tzinfo (v1.2.9, rbenv: 2.3.4) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="uglifier (v4.2.0, rbenv: 2.3.4) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="web-console (v3.7.0, rbenv: 2.3.4) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="webpacker (v2.0, rbenv: 2.3.4) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="websocket-driver (v0.6.5, rbenv: 2.3.4) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="websocket-extensions (v0.1.5, rbenv: 2.3.4) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="xpath (v3.2.0, rbenv: 2.3.4) [gem]" level="application" />
